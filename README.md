@@ -9,6 +9,8 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Spring 2018
 
+# Unfortunately, I still need some time to finish the project :( Please come back tomorrow and it **will** be ready! Thank you so much.
+
 + Project title: Comparing the Gothic-ness of Shelley, Poe and Lovecraft
 + This project is conducted by Mingkai Deng
 + Project summary: Based on academic research on the "Gothic" literary style, we identified the "Gothic" stylistic elements from writings by Mary Shelley, Edgar Allan Poe and H.P. Lovecraft, and measured the extent to which they influenced each other.
